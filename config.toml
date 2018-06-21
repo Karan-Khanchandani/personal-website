@@ -9,17 +9,16 @@ googleAnalytics = ""
 
 [params]
 	# General information
-	author = "Digitalcraftsman"
-	description = "A material design theme for documentations."
-	copyright = "Released under the MIT license"
-
+	author = "Karan Khanchandani"
+	description = "Coder. Gamer. Dreamer."
+	
 	# Repository
-	provider = "GitHub"
-	repo_url = "https://github.com/digitalcraftsman/hugo-material-docs"
+	#provider = "GitHub"
+	#repo_url = "https://github.com/digitalcraftsman/hugo-material-docs"
 
-	version = "1.0.0"
+	#version = "1.0.0"
 	logo = "img/kk.jpg"
-	favicon = ""
+	#favicon = ""
 
 	permalink = "#"
 
@@ -31,45 +30,34 @@ googleAnalytics = ""
 	highlight_css  = ""
 
 	[params.palette]
-    	primary = "red"
-    	accent  = "teal"
+    	primary = "indigo"
+    	accent  = "light-blue"
 
     [params.font]
-    	text = "Ubuntu"
-    	code = "Ubuntu Mono"
+    	text = "Roboto"
+    	code = "Raleway"
 
 
 [social]
 	twitter = ""
-	github  = "digitalcraftsman"
-	email   = "hello@email.com"
+	github  = "Karan-Khanchandani"
+	email   = "karan.khanchandani94@gmail.com"
 
+
+#[[menu.main]]
+#	name   = "Material"
+#	url    = "/"
+#	weight = 0
 
 [[menu.main]]
-	name   = "Material"
-	url    = "/"
-	weight = 0
-
-[[menu.main]]
-	name   = "Getting started"
-	url    = "getting-started/"
+	name   = "Articles"
+	url    = "articles/"
 	weight = 10
 
 [[menu.main]]
-	name   = "Adding content"
-	url    = "adding-content/"
+	name   = "About"
+	url    = "about/"
 	weight = 20
-
-[[menu.main]]
-	name   = "Roadmap"
-	url    = "roadmap/"
-	weight = 30
-
-[[menu.main]]
-	name   = "License"
-	url    = "license/"
-	weight = 40
-
 
 [blackfriday]
 	smartypants	= true

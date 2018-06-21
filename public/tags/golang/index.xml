@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Golang on Karan Khanchandani</title>
+    <link>https://www.karankhanchandani.com/tags/golang/</link>
+    <description>Recent content in Golang on Karan Khanchandani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Sep 2017 19:12:26 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.karankhanchandani.com/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First_post</title>
+      <link>https://www.karankhanchandani.com/adding-content/first_post/</link>
+      <pubDate>Tue, 05 Sep 2017 19:12:26 +0530</pubDate>
+      
+      <guid>https://www.karankhanchandani.com/adding-content/first_post/</guid>
+      <description>Hi</description>
+    </item>
+    
+  </channel>
+</rss>
