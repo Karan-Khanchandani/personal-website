@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.karankhanchandani.com/articles/helloworld/</loc>
+    <lastmod>2018-06-21T19:20:11+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.karankhanchandani.com/about/</loc>
+    <lastmod>2018-06-20T20:26:09+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.karankhanchandani.com/articles/</loc>
+    <lastmod>2018-06-21T19:20:11+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.karankhanchandani.com/timepass/5th_post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.karankhanchandani.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.karankhanchandani.com/</loc>
+    <lastmod>2018-06-21T19:20:11+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.karankhanchandani.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.karankhanchandani.com/timepass/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

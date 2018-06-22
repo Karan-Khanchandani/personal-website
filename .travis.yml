@@ -1,6 +1,7 @@
 language: go
 install:
-- go get -v github.com/spf13/hugo
+- wget github.com/gohugoio/hugo/releases/download/v0.42.1/hugo_0.42.1_Linux-64bit.deb
+- sudo dpkg -i hugo*.deb
 - pip install --user awscli
 script:
 - hugo version
